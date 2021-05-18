@@ -29,7 +29,7 @@ export default function Home() {
       </Head>
 
 
-      <header className='flex w-full p-3 justify-between bg-blue-400 text-md text-gray-800'>
+      <header className='flex w-full p-3 justify-between bg-gray-100 text-md text-gray-800'>
         <div className='flex space-x-4 items-center'>
           <p className='link'>About</p>
           <p className='link'>Store</p>

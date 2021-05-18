@@ -8,6 +8,6 @@
         @apply bg-gray-100 p-2 rounded-full ring-gray-100 text-sm text-gray-600 focus:ring-1
     }
     .link{
-        @apply cursor-pointer hover:text-blue-100
+        @apply cursor-pointer hover:text-blue-600
     }
 }
